@@ -40,4 +40,4 @@ Se quiser conhecer um pouco mais do que eu faço, confira meu **portfólio compl
 💼 **LinkedIn:** [Bianca Alves](https://www.linkedin.com/in/bianca-alves27/)  
 ---
 
-🌟 Obrigado por visitar meu perfil! 
+🌟 Obrigada por visitar meu perfil! 
