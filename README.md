@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
   Olá, seja bem-vindo(a)!  
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2y5jq2g2nbFzRm/giphy.gif" width="250px">
-</p>
 ---
 
 ## 🎨 Sobre mim  
@@ -28,7 +24,7 @@
 🛠 **Ferramentas que uso:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Filmora](https://img.shields.io/badge/-Filmora-0ABF53?style=for-the-badge&logo=wondershare&logoColor=white)
-![CapCut](https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)![](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![CapCut](https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
@@ -47,9 +43,3 @@ Se quiser conhecer um pouco mais do que eu faço, confira meu **portfólio compl
 ---
 
 🌟 Obrigado por visitar meu perfil! 
-
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250px">
-</p>
