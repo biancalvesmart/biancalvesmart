@@ -4,9 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="200px">
+  <img src="https://media.giphy.com/media/l3q2y5jq2g2nbFzRm/giphy.gif" width="250px">
 </p>
-
 ---
 
 ## 🎨 Sobre mim  
@@ -47,10 +46,10 @@ Se quiser conhecer um pouco mais do que eu faço, confira meu **portfólio compl
 💼 **LinkedIn:** [Bianca Alves](https://www.linkedin.com/in/bianca-alves27/)  
 ---
 
-## 🎭 Um pouco de inspiração  
+🌟 Obrigado por visitar meu perfil! 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300px">
 </p>
 
-🌟 Obrigado por visitar meu perfil! 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250px">
+</p>
