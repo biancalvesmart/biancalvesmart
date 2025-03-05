@@ -5,7 +5,7 @@
 
 ## 🎨 Sobre mim  
 
-👋 Oi! Meu nome é **Bianca** e sou uma **Designer Digital** apaixonado(a) por criatividade e inovação com foco na experiência do usuário.  
+👋 Oi! Meu nome é **Bianca** e sou uma **Designer Digital** apaixonada por criatividade e inovação com foco na experiência do usuário.  
 🚀 UX/UI Designer | Product Design | Gestão Criativa & Liderança | UX Writing & Research | Transformando ideias em experiências visuais ✨
 
 ---
